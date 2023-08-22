@@ -3,10 +3,12 @@ My first repository in git
 ## Unix commands
 
 ##Useful links 
-Cheat sheet: https://www.markdownguide.org/cheat-sheet/
-Latex: https://ashki23.github.io/markdown-latex.html
+**Cheat sheet**: https://www.markdownguide.org/cheat-sheet/
+**Latex**: https://ashki23.github.io/markdown-latex.html
+
 
 ##GIT commands
+
 **git clones** download a repository to the local machine 
 **git status** check the current situation 
 - **git add**:add files to the staging area before commiting
